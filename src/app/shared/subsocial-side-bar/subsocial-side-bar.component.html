@@ -1,0 +1,11 @@
+<div class="sidebar-view-subsocial">
+    <div style="color: black; font-weight: bold">Browse Subsocials</div>
+    <hr />
+    <span *ngFor="let subsocial of subsocials">
+        <span class="subsocial-text"><a href="/view-subsocial/{{subsocial.id}}">{{subsocial.name}}</a></span>
+        <hr />
+    </span>
+    <div style="text-align: center" *ngIf="displayViewAll">
+        <a style="font-weight: bold" routerLink="/list-subsocials">View All</a>
+    </div>
+</div>
