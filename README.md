@@ -1,4 +1,6 @@
-# AngularSocialWebsite
+# Docummentation of the entire Social Website project (Reddit) is in the [backend-social-website](https://github.com/krzliszka/backend-social-website/blob/master/README.md) repository
+---
+# Social Website
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
