@@ -1,4 +1,4 @@
-# Docummentation of the entire Social Website project (Reddit) is in the [backend-social-website](https://github.com/krzliszka/backend-social-website/blob/master/README.md) repository
+# Docummentation of the entire Social Website project (Reddit) is in the [backend-social-website](https://github.com/krzliszka/backend-social-website/) repository
 ---
 # Social Website
 
